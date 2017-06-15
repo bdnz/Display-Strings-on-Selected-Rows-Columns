@@ -1,7 +1,7 @@
-TITLE CS2650 Assembler Assignment #2 Template
 
-; Student Name: Deniz Burak
-; Assignment Due Date: Nov, 9th
+
+;Deniz Burak
+
 
 INCLUDE Irvine32.inc
 .data
