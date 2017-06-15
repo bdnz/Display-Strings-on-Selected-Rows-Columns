@@ -6,8 +6,8 @@
 INCLUDE Irvine32.inc
 .data
 	;--------- Enter Data Here
-	vSemester BYTE "CS280 Fall Semeter 2014",0
-	vAssignment BYTE "Assembler Assignment #1",0
+	vSemester BYTE "string Goes here #1",0
+	vAssignment BYTE "Another string Goes Here #2",0
 	vName BYTE "Deniz Burak",0
 .code
 main PROC
