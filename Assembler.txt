@@ -1,0 +1,9 @@
+Download the assignment project template zip file
+Start Visual Studio and open the downloaded VS solution contained in the project folder.
+When the project has started, open the assembler source code file
+Modify the program source code to do the following:
+Clear the display.
+Display string on row 2, column 12 of the display.
+Display string on row 3, column 12 of the display.
+Display your name on row 4, column 12 of the display.
+Thoroughly test your project before submitting. 
